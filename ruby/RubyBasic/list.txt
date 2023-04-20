@@ -1,0 +1,9 @@
+
+[caixas]
+quantidades = 5
+caixas_fechados = 2
+
+[estoque]
+frutas = 5000
+verduras = 200
+agua = sim 
