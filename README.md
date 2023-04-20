@@ -1,3 +1,1 @@
-# github
-repositório para teste 
-isso foi apenas um teste
+#My Studies in Ruby
